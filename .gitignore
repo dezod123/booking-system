@@ -1,0 +1,20 @@
+# Node / monorepos
+node_modules/
+pnpm-lock.yaml
+yarn.lock
+
+# env & secrets
+.env
+.env.*
+!.env.example
+
+# logs & build artifacts
+*.log
+dist/
+build/
+.out/
+.next/
+
+# editor & OS junk
+.vscode/
+.DS_Store

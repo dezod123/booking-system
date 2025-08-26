@@ -1,0 +1,4 @@
+[submodule "cal.com"]
+	path = cal.com
+	url = https://github.com/dezod123/cal.com.git
+	branch = main
